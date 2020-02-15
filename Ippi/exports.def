@@ -1,0 +1,8 @@
+EXPORTS
+	ippGetStatusString
+	ippiRotate_16u_C1R
+	ippiMirror_16u_C1IR
+	ippiResizeSqrPixel_16u_C1R
+	ippiResizeGetBufSize
+	ippiSet_16u_C1R
+	ippiLUTPalette_16u8u_C1R
