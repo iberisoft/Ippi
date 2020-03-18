@@ -5,4 +5,5 @@ EXPORTS
 	ippiResizeSqrPixel_16u_C1R
 	ippiResizeGetBufSize
 	ippiSet_16u_C1R
+	ippiCopy_16u_C1R
 	ippiLUTPalette_16u8u_C1R
