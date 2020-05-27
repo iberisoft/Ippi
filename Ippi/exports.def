@@ -1,5 +1,6 @@
 EXPORTS
 	ippGetStatusString
+	ippiMinMax_16u_C1R
 	ippiRotate_16u_C1R
 	ippiMirror_16u_C1IR
 	ippiResizeSqrPixel_16u_C1R
